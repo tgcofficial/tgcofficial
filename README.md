@@ -4,4 +4,4 @@
 <h3 align="center">A Cool HTML, CSS, JS Coder.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />
+  <img src="https://komarev.com/ghpvc/?username=tgcofficial&label=Profile Visitors&color=9D36F7&style=flat" alt="3kh0" />
