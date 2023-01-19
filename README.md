@@ -4,4 +4,4 @@
 <h3 align="center">A Cool HTML, CSS, JS Coder.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+<img src="https://komarev.com/ghpvc/?tgcofficial&color=9D36F7" alt="TGC" />
