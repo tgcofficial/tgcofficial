@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&width=435&lines=Hello!+I+am+TGC!;HTML+Coder;CSS+Coder;JS+Coder;Owner+of+the+best+game+site!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello!+I+am+tgcofficial
+!;HTML+Coder;CSS+Coder;VS+Code;Owner+of+the+best+game+site!" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm tgcofficial</h1>
 <h3 align="center">A Cool HTML, CSS, JS Coder.</h3>
@@ -13,5 +14,5 @@
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgcofficial&no-frame=trueno-bg=true" alt="tgcofficial" /></a> </p>
 
-- 🔭 I’m currently working on [my main website](https://github.com/tgcofficial/tgcofficial.github.io) and whatever else!
+- I’m currently working on [my main website](https://github.com/tgcofficial/tgcofficial.github.io) and whatever else!
 <p align="left">
