@@ -5,6 +5,8 @@
 <h3 align="center">A Cool HTML, CSS, JS Coder.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  [![Discord Presence](https://lanyard.cnrad.dev/api/712345310285791242)](https://discord.com/users/712345310285791242)
+  
   <img src="https://komarev.com/ghpvc/?username=tgcofficial&label=Profile Visitors&color=9D36F7&style=flat" alt="tgcofficial" />
   <img alt="" src="https://img.shields.io/badge/Discord-saturn%230020-red/?logo=discord&color=7289DA">
   <img alt="" src="https://img.shields.io/badge/Discord-Glitch%237000-red/?logo=discord&color=7289DA">
