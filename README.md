@@ -16,8 +16,3 @@
 
 - I’m currently working on [my main website](https://github.com/tgcofficial/tgcofficial.github.io) and whatever else!
 <p align="left">
-  
-  <script>
-    
-      [![Discord Presence](https://lanyard.cnrad.dev/api/712345310285791242)](https://discord.com/users/712345310285791242)
-  </script>
