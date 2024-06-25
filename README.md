@@ -11,7 +11,7 @@
   <img alt="" src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954">
   <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css&logoColor=warning&color=blue" alt="css">
+  <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=CSS&logoColor=warning&color=blue" alt="css">
   <img src="https://img.shields.io/badge/Knows-LUA-blue/?logo=css&logoColor=warning&color=blue" alt="lua">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgcofficial&no-frame=trueno-bg=true" alt="tgcofficial" /></a> </p>
 
