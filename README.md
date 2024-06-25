@@ -6,8 +6,8 @@
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
   <img src="https://komarev.com/ghpvc/?username=tgcofficial&label=Profile Visitors&color=9D36F7&style=flat" alt="tgcofficial" />
-  <img alt="" src="https://img.shields.io/badge/Discord-saturn%230020-red/?logo=discord&color=7289DA">
-  <img alt="" src="https://img.shields.io/badge/Discord-Glitch%237000-red/?logo=discord&color=7289DA">
+  <img alt="" src="https://img.shields.io/badge/Discord-oksaturn-red/?logo=discord&color=7289DA">
+  <img alt="" src="https://img.shields.io/badge/Discord-okglitch-red/?logo=discord&color=7289DA">
   <img alt="" src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954">
   <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
